@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2d78d06e77ae71d4cacbfc1941bbce8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - savedXPInfo: {fileID: 11400000, guid: 986a6182fa959f84882500258501951f, type: 2}
+  - currentXP: {instanceID: 0}
+  - startingXP: {instanceID: 0}
+  - maxXP: {instanceID: 0}
+  - acquiredXP: {instanceID: 0}
+  - requiredXP: {instanceID: 0}
+  - previouslyRequiredXP: {instanceID: 0}
+  - level: {instanceID: 0}
+  - maxLevel: {instanceID: 0}
+  - progress: {instanceID: 0}
+  - progressOverall: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

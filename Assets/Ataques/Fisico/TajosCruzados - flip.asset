@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac856a77127a6e4eb65b37ad721b598, type: 3}
+  m_Name: TajosCruzados - flip
+  m_EditorClassIdentifier: 
+  nombreAtaque: Tajos Cruzados
+  damage: 10
+  descripcion: "Ataca dos veces con la espada concentrando el da\xF1o en un solo
+    punto."
+  coste: 10
+  tipoAtaque: 0
+  icon: {fileID: 21300000, guid: 85375b0c88094b448a296127097db40b, type: 3}
+  elementoAtaque: 6
+  rango: 0
+  prefab: {fileID: 7211690538519825058, guid: 798b4474d3bc9374a8ae7ec021224ba8, type: 3}
+  seMueve: 0

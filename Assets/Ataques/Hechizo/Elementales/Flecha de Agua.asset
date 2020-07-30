@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac856a77127a6e4eb65b37ad721b598, type: 3}
+  m_Name: Flecha de Agua
+  m_EditorClassIdentifier: 
+  nombreAtaque: Flecha de Agua
+  damage: 9
+  descripcion: Lanza una flecha de agua.
+  coste: 7
+  tipoAtaque: 1
+  icon: {fileID: -7406355454059761567, guid: af717eee66522a446bdb16b8444343d9, type: 3}
+  elementoAtaque: 1
+  rango: 2
+  prefab: {fileID: 503629775467671271, guid: 5750d195ddbde5d4fbe9c431542cad15, type: 3}
+  seMueve: 1

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac856a77127a6e4eb65b37ad721b598, type: 3}
+  m_Name: "Pu\xF1o Hoja"
+  m_EditorClassIdentifier: 
+  nombreAtaque: "Pu\xF1o Hoja"
+  damage: 12
+  descripcion: Ataque del Boss Daidarabotchi
+  coste: 0
+  tipoAtaque: 0
+  icon: {fileID: -2318997842248720732, guid: 4dfbebbffe7e0154abaca297222ac63b, type: 3}
+  elementoAtaque: 2
+  rango: 2
+  prefab: {fileID: 9203325203251361928, guid: b9dedb76f6c39e74297784697958093b, type: 3}
+  seMueve: 0

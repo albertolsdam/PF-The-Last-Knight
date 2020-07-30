@@ -1,0 +1,215 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MapConfig
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: a21f71146b25f5f4faa3957f18d627ba,
+      type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nodeBlueprints.Array.size
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: nodeBlueprints.Array.data[0]
+    value: 
+    objectReference: {fileID: 11400000, guid: f09a895d243765545b867adcb10cd13e, type: 2}
+  - target: {fileID: 0}
+    propertyPath: nodeBlueprints.Array.data[1]
+    value: 
+    objectReference: {fileID: 11400000, guid: 2cc0c8e74e85bc14d8be96c9a834594d, type: 2}
+  - target: {fileID: 0}
+    propertyPath: nodeBlueprints.Array.data[2]
+    value: 
+    objectReference: {fileID: 11400000, guid: bb14966bf28c4164ba9c2580c724cdf9, type: 2}
+  - target: {fileID: 0}
+    propertyPath: nodeBlueprints.Array.data[3]
+    value: 
+    objectReference: {fileID: 11400000, guid: 9686a87dacea8254c959c4f1aec9941f, type: 2}
+  - target: {fileID: 0}
+    propertyPath: nodeBlueprints.Array.data[4]
+    value: 
+    objectReference: {fileID: 11400000, guid: dfb2651849bbba640970aec1f4b8601f, type: 2}
+  - target: {fileID: 0}
+    propertyPath: numOfPreBossNodes.min
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: numOfPreBossNodes.max
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: numOfStartingNodes.min
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: numOfStartingNodes.max
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.size
+    value: 6
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[0].nodeType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[0].distanceFromPreviousLayer.min
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[0].distanceFromPreviousLayer.max
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[0].nodesApartDistance
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[0].randomizePosition
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[0].randomizeNodes
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[1].nodeType
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[1].distanceFromPreviousLayer.min
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[1].distanceFromPreviousLayer.max
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[1].nodesApartDistance
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[1].randomizePosition
+    value: 0.52
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[1].randomizeNodes
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[2].nodeType
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[2].distanceFromPreviousLayer.min
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[2].distanceFromPreviousLayer.max
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[2].nodesApartDistance
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[2].randomizePosition
+    value: 0.542
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[2].randomizeNodes
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[3].nodeType
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[3].distanceFromPreviousLayer.min
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[3].distanceFromPreviousLayer.max
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[3].nodesApartDistance
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[3].randomizePosition
+    value: 0.479
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[3].randomizeNodes
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[4].nodeType
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[4].distanceFromPreviousLayer.min
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[4].distanceFromPreviousLayer.max
+    value: 3
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[4].nodesApartDistance
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[4].randomizePosition
+    value: 0.526
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[4].randomizeNodes
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[5].nodeType
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[5].distanceFromPreviousLayer.min
+    value: 4
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[5].distanceFromPreviousLayer.max
+    value: 5
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[5].nodesApartDistance
+    value: 2
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[5].randomizePosition
+    value: 0.16
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: layers.array.Array.data[5].randomizeNodes
+    value: 0
+    objectReference: {fileID: 0}

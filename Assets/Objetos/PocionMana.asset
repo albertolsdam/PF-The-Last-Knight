@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 929a1ec5baa33184c8ccc699c7580672, type: 3}
+  m_Name: PocionMana
+  m_EditorClassIdentifier: 
+  tipoAccion: 1
+  nombreObjeto: "Poci\xF3n de Man\xE1"
+  cantidad: 3
+  descripcion: Restaura 20 de Mp
+  cantidadEfecto: 20
+  icon: {fileID: -5417832148816377048, guid: 4dfbebbffe7e0154abaca297222ac63b, type: 3}
+  prefab: {fileID: 100000, guid: aa3fed151f536ee49b583c6a3ac4a2e1, type: 3}

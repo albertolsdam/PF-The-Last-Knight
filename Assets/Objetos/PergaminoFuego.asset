@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 929a1ec5baa33184c8ccc699c7580672, type: 3}
+  m_Name: PergaminoFuego
+  m_EditorClassIdentifier: 
+  tipoAccion: 2
+  nombreObjeto: 'Pergamino: Fuego'
+  cantidad: 1
+  descripcion: Lanza una bola de fuego
+  cantidadEfecto: 8
+  icon: {fileID: -9205968485945550509, guid: af717eee66522a446bdb16b8444343d9, type: 3}
+  prefab: {fileID: 9197482336079999120, guid: 58cb6c6c5f94ba6419dbd88e056df5fc, type: 3}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26a082e4a5cf86245a334dd6f218dcbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canReceiveXPSet: {fileID: 11400000, guid: b680a95648176e8428b399918ab6042f, type: 2}
+  - xpCalculationMethod: {fileID: 11400000, guid: 986a6182fa959f84882500258501951f,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

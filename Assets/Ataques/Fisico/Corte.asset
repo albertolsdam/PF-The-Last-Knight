@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac856a77127a6e4eb65b37ad721b598, type: 3}
+  m_Name: Corte
+  m_EditorClassIdentifier: 
+  nombreAtaque: Corte
+  damage: 7
+  descripcion: Ataca con la espada.
+  coste: 0
+  tipoAtaque: 0
+  icon: {fileID: 3495713834309950518, guid: 4dfbebbffe7e0154abaca297222ac63b, type: 3}
+  elementoAtaque: 6
+  rango: 0
+  prefab: {fileID: 5852914421468188304, guid: 98c7cc46cdc88324d9b46dc7da27c6b7, type: 3}
+  seMueve: 0

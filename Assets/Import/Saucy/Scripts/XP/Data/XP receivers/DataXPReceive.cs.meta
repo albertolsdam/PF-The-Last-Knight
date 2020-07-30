@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 012223c334b92c947b8c2f4dfe4ff9de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectedXPFormula: {fileID: 11400000, guid: 229c1c93cc8e14547ba82cecaf1a1d68,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

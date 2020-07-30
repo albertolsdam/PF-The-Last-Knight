@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac856a77127a6e4eb65b37ad721b598, type: 3}
+  m_Name: Cascada
+  m_EditorClassIdentifier: 
+  nombreAtaque: Cascada
+  damage: 15
+  descripcion: Ataca con la fuerza de una cascada.
+  coste: 12
+  tipoAtaque: 1
+  icon: {fileID: -7406355454059761567, guid: af717eee66522a446bdb16b8444343d9, type: 3}
+  elementoAtaque: 1
+  rango: 2
+  prefab: {fileID: 0}

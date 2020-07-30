@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ac856a77127a6e4eb65b37ad721b598, type: 3}
+  m_Name: Enraizar
+  m_EditorClassIdentifier: 
+  nombreAtaque: Enraizar
+  damage: 10
+  descripcion: "Utiliza unas raizes para hacer da\xF1o al objetivo."
+  coste: 7
+  tipoAtaque: 1
+  icon: {fileID: 1293080603227797712, guid: af717eee66522a446bdb16b8444343d9, type: 3}
+  elementoAtaque: 2
+  rango: 2
+  prefab: {fileID: 0}

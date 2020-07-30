@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f33772bdb84451044bb9d19a7f2b4dd3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 8016779143350347865, guid: 8095a7cfc3d9e7949a836ac14c15190c,
+      type: 3}
+  - xpMethodName: {instanceID: 0}
+  - currentXP: {instanceID: 0}
+  - maxXP: {instanceID: 0}
+  - acquiredXP: {instanceID: 0}
+  - requiredXP: {instanceID: 0}
+  - previouslyRequiredXP: {instanceID: 0}
+  - level: {instanceID: 0}
+  - maxLevel: {instanceID: 0}
+  - maxLevelReached: {instanceID: 0}
+  - progress: {instanceID: 0}
+  - progressOverall: {instanceID: 0}
+  - listPrefab: {fileID: 6412495281175031657, guid: 02af1cc05f25cf944bd249d6919cd391,
+      type: 3}
+  - listContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
